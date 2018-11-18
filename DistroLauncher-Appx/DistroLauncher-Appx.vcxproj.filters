@@ -147,11 +147,10 @@
     </Image>
   </ItemGroup>
   <ItemGroup>
-    <AppxManifest Include="MyDistro.appxmanifest" />
+    <AppxManifest Include="ArchLinux.appxmanifest" />
   </ItemGroup>
   <ItemGroup>
     <None Include="DistroLauncher-Appx_TemporaryKey.pfx" />
-    <None Include="..\ARM64\install.tar.gz" />
     <None Include="..\x64\install.tar.gz" />
   </ItemGroup>
   <ItemGroup>
